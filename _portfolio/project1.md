@@ -1,6 +1,6 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Stochastic Comment Clustering
+subtitle: Natural Language Processing combined with a noise map to cluster like-minded comments.
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
@@ -9,10 +9,10 @@ caption:
   subtitle: Illustration
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+A project built for Premera Blue Cross to classify the comments that customers submitted as feedback to the customer.
+Streamlined the ability to hear and act on customer feedback.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: Summer 2021
+- Category: Professional
 
