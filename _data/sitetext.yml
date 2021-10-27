@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Levi Dahlberg
+    text: Data Scientist and Software Developer
     button: Tell Me More
     buttonlink: "#services"
 
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "See what cool things I have worked on below!"
     section: portfolio
     closebutton: "Close Project"
 
@@ -69,9 +69,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "And what I love to do"
+    body: "Senior at Seattle Pacific University pursuing a BS in Computer Science. I have nearly 5 years of Computer Science/Programming experience with a focus in C++ and Java with experience in other languages like Python, Rust, .NET, and more. I have current and past involvement in leadership with experience in positions such as Lead Technician, Associative Student Body President and Project Management for middleware development. My skills include leadership, communication, public speaking/presenting, computer programming, innovative problem solving, team collaboration, personal coaching, and interpersonal relations. I hope to use all these skills and more to contribute to the ethical and humane development and integration of Machine Learning and Artificial Intelligence to our society. While exploring, contributions to the advancement of humanity through aeronautics and scientific discovery."
     section: about
 
   clients:
@@ -130,7 +130,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Contact Me"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
