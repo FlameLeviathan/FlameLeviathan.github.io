@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Levi Dahlberg
-    text: Data Scientist and Software Developer
+    title: Data Scientist and Software Developer
+    text: Levi Dahlberg
     button: Tell Me More
     buttonlink: "#services"
 
