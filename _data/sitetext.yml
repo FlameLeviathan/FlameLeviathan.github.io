@@ -53,8 +53,6 @@ en: &DEFAULT_EN
          for client comment classification."
         image: assets/img/timeline/4.jpg
         alt:
-        # you can enforce the alignment
-        align: right
     end: "Be Part <br> of My <br> Story!"
 
 
