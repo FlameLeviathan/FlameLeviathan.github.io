@@ -16,6 +16,12 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
+  about:
+    title: "About Me"
+    text: "And what I love to do"
+    body: "Senior at Seattle Pacific University pursuing a BS in Computer Science. I have nearly 5 years of Computer Science/Programming experience with a focus in C++ and Java with experience in other languages like Python, Rust, .NET, and more. I have current and past involvement in leadership with experience in positions such as Lead Technician, Associative Student Body President and Project Management for middleware development. My skills include leadership, communication, public speaking/presenting, computer programming, innovative problem solving, team collaboration, personal coaching, and interpersonal relations. I hope to use all these skills and more to contribute to the ethical and humane development and integration of Machine Learning and Artificial Intelligence to our society. While exploring, contributions to the advancement of humanity through aeronautics and scientific discovery."
+    section: about
+
   services:
     title: "Services"
     text: "Lorem ipsum"
@@ -67,12 +73,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About Me"
-    text: "And what I love to do"
-    body: "Senior at Seattle Pacific University pursuing a BS in Computer Science. I have nearly 5 years of Computer Science/Programming experience with a focus in C++ and Java with experience in other languages like Python, Rust, .NET, and more. I have current and past involvement in leadership with experience in positions such as Lead Technician, Associative Student Body President and Project Management for middleware development. My skills include leadership, communication, public speaking/presenting, computer programming, innovative problem solving, team collaboration, personal coaching, and interpersonal relations. I hope to use all these skills and more to contribute to the ethical and humane development and integration of Machine Learning and Artificial Intelligence to our society. While exploring, contributions to the advancement of humanity through aeronautics and scientific discovery."
-    section: about
 
   clients:
     section: clients
